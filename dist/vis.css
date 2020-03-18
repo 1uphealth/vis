@@ -1220,7 +1220,7 @@ div.vis-network div.vis-navigation div.vis-button.vis-zoomExtends {
   height: 100%;
   overflow-x: hidden;
   overflow-y: scroll;
-} 
+}
 
 .vis-left.vis-panel.vis-vertical-scroll {
   direction: rtl;
